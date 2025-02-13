@@ -1,4 +1,4 @@
-# Algorithmics
+# Description 
 
-- For VCE Algorithmics, I am primarily working in Kaggle and Google Colab
-- But I'll periodically upload my files to this repo
+- A collaborative repo for VCE Algorithmics work and Computer Science problems
+- Sai, Rhitt, Edward and Daniel 

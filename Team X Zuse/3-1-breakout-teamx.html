@@ -7723,10 +7723,10 @@ T(n)&amp;=c\cdot\log_2{n}\\
 <p>This takes $O(\log(n))$ time, where $n$ is the number of candidates in the range accounting for precision.</p>
 <ul>
 <li>A more optimal approach is Heron's Method (commonly conflated with the formula for the area of a triangle from its side lengths), which is actually just a special case of the famous Newton's Method. The idea is to exploit the following:
-$$
+$$\begin{gather*}
 a = \sqrt{S}\\
 a^2 = S
-$$</li>
+\end{gather*}$$</li>
 </ul>
 <p>$$\tag{1}a^2 - S = 0$$
 <br/>
@@ -7743,11 +7743,11 @@ x&amp;=x_n+\frac{l(x)-f(x_n)}{f'(x_n)}\\
 <hr/>
 <p>$$\begin{aligned}
 \therefore x_{n+1}&amp;=x_n+\frac{0-(x_n^2-S)}{2x_n-0}\\
-&amp;=\frac{2x_n^2}{2x_n}+\frac{-x^2+S}{2x_n}\\
+&amp;=\frac{2x_n^2}{2x_n}+\frac{-x_n^2+S}{2x_n}\\
 &amp;= \boxed{\frac{1}{2}\left(x_n+\frac{S}{x_n}\right)}
 \end{aligned}$$
-Note that this assumes $a\neq 0$<br/>
-This is the recurrence relation used in Heron's method<br/>
+Note that this assumes $x_n\neq 0\;\forall n$, a well known limitation of Newton's Method.<br/>
+This equation gives the recurrence relation used in Heron's Method.<br/>
 This evidently requires much less iterations than Binary Search, as it utilises additional information to restrict the interval, and the operations performed by each iteration do not change, and so the time complexity is expected to be much faster.<br/>
 Below is a visualisation:</p>
 </div>
