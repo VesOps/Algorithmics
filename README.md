@@ -55,13 +55,12 @@ This study enables students to:
 
 ### Percentage contributions to the study score in VCE Algorithmics (HESS) are as follows:
 
-- Units 3 and 4 School-assessed Coursework: $20%$
-- Units 3 and 4 School-assessed Task: $20%$
-- end-of-year examination: $60%$
+- Units 3 and 4 School-assessed Coursework: 20\%
+- Units 3 and 4 School-assessed Task: 20\%
+- end-of-year examination: 60\%
 
 # Unit 3: Algorithmic problem-solving
 
-Students are not required to know about the implementation of abstract data types (ADTs), as the main focus of this study is on algorithmic thinking using ADTs rather than on the details of how ADTs are implemented.
 
 ## Area of Study 1
 
@@ -103,8 +102,7 @@ Algorithm design
 
 In this area of study, students learn how to formalise processes as algorithms and to execute them automatically. They use the language of algorithms to describe general approaches to problem-solving and to give precise descriptions of how specific problems can be solved. Students learn how to decompose problems into smaller parts that can be solved independently. This forms the basis of modularisation. Students explore a variety of problem-solving strategies and algorithm design patterns. Students explore example applications of these design patterns and learn about their implications for efficiently solving problems. They learn about recursion as a method for constructing solutions to problems by drawing on solutions to smaller instances of the same problem.
 
-Students are required to implement algorithms as computer programs. The programming language used must explicitly support the ADTs listed in the key knowledge in Area of Study 1 either directly or by using  
-a library.
+Students are required to implement algorithms as computer programs. The programming language used must explicitly support the ADTs listed in the key knowledge in Area of Study 1 either directly or by using a library.
 
 ### Outcome 2
 
@@ -174,7 +172,7 @@ Key skills
 
 ## Contribution to final assessment
 
-School-assessed Coursework for Unit 3 will contribute 12 per cent to the study score.
+School-assessed Coursework for Unit 3 will contribute 12% to the study score.
 
 <table><tbody><tr><th><p><strong>Outcomes</strong></p></th><th><p><strong>Marks allocated</strong></p></th><th><p><strong>Assessment tasks</strong></p></th></tr><tr><td><p><strong>Outcome 1</strong></p><p>Define and explain the representation of information using abstract data types, and devise formal representations for modelling various kinds of real-world information problems using appropriate abstract data types.</p></td><td><p><strong>50</strong></p></td><td><p>In response to given stimulus material, create one or more designs of a data model using abstract data types to capture the salient aspects of a real-world information problem.</p></td></tr><tr><td><p><strong>Outcome 2</strong></p><p>Define and explain algorithmic design principles, design algorithms to solve information problems using basic algorithm design patterns, and implement the algorithms.</p></td><td><p><strong>50</strong></p></td><td><p>In response to given stimulus material:</p><ul><li>create one or more designs of algorithms that apply algorithm design patterns or select appropriate graph algorithms to solve information problems</li><li>implement an algorithm.</li></ul></td></tr><tr><td><p><strong>Total marks</strong></p></td><td><p><strong>100</strong></p></td><td></td></tr></tbody></table>
 
@@ -323,31 +321,28 @@ School-assessed Coursework for Unit 4 will contribute 8 per cent to the study sc
 
 <table><tbody><tr><th><p><strong>Outcomes</strong></p></th><th><p><strong>Marks allocated</strong></p></th><th><p><strong>Assessment tasks</strong></p></th></tr><tr><td><p><strong>Outcome 3</strong></p><p>Explain the historical context for the emergence of computer science as a field and discuss modern machine learning techniques and the philosophical issues they raise.</p></td><td><p><strong>50</strong></p></td><td><p>Select at least one task from the following:</p><ul><li>a response to a case study or stimulus material</li><li>a written report</li><li>an annotated visual report</li><li>an oral report</li><li>structured questions.</li></ul></td></tr><tr><td><p><strong>Total marks</strong></p></td><td><p><strong>50</strong></p></td><td></td></tr></tbody></table>
 
-School-assessed Task
+## School-assessed Task
 
 The student’s level of achievement in Unit 3 Outcome 3, Unit 4 Outcome 1 and Unit 4 Outcome 2 will be assessed through a School-assessed Task.
 
-Contribution to final assessment
 
-The School-assessed Task contributes 20 per cent to the study score.
+The School-assessed Task contributes 20% to the study score.
 
 <table><tbody><tr><th><p><strong>Outcomes</strong></p></th><th><p><strong>Assessment tasks</strong></p></th></tr><tr><td><p><strong>Unit 3</strong></p><p><strong>Outcome 3</strong></p><p>Design suitable solutions for real-world problems that require the integration of algorithms and data types, including the communication of solutions and their justification.</p></td><td rowspan="3"><p>The design of a data model and algorithm combination to solve a real-world/applied problem, including:</p><ul><li>a specification of the problem</li><li>a consideration of multiple solution options</li><li>the selection of a suitable, coherent, clear and fit-for-purpose solution</li></ul><p><strong>AND</strong></p><p>A formal time complexity analysis of the designed algorithm for the applied problem and an explanation of the consequences of these results on the algorithm’s real-world application.</p><p><strong>AND</strong></p><p>A design of an improved data model and algorithm combination to solve the applied problem, including:</p><ul><li>the selection of an efficient, coherent and fit-for-purpose solution</li><li>a time complexity analysis</li><li>a comparison to the original solution.</li></ul></td></tr><tr><td><p><strong>Unit 4</strong></p><p><strong>Outcome 1</strong></p><p>Establish the efficiency of simple algorithms and explain soft limits of computability.</p></td></tr><tr><td><p><strong>Unit 4</strong></p><p><strong>Outcome 2</strong></p><p>Solve a variety of information problems using algorithm design patterns and explain how heuristics can address the intractability of problems.</p></td></tr></tbody></table>
 
-External assessment
+## External assessment
 
 The level of achievement for Units 3 and 4 is also assessed by an end-of-year examination.
 
 Contribution to final assessment
 
-The examination will contribute 60 per cent to the study score.
+The examination will contribute 60% to the study score.
 
-End-of-year examination
-
-Description
+### Description
 
 The examination will be set by a panel appointed by the VCAA. All the key knowledge and key skills that underpin the outcomes in Units 3 and 4 are examinable.
 
-Conditions
+### Conditions
 
 The examination will be completed under the following conditions:
 
